@@ -19,3 +19,15 @@
     text-align: center;
     margin-top: 25px;
 }
+
+#redZone {
+    z-index: -10;
+    margin-left: -1px;
+    width: 70px;
+    height: 501px;
+    background-color: red;
+}
+
+p {
+    text-align: center;
+}
